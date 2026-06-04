@@ -1,4 +1,4 @@
-# Wessex Translational Genomic Informatics Collaborative (WTGIC)
+# Wessex Translational Genomic Informatics Collaborative (WeTGI)
 
 ## About Us
 
